@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: test_colocation
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: 'ounbaydat.mohamed-ibrahim@etu.univ-nantes.fr'
+    mailer_password: null
+    secret: bbd31f0d006a5cc2f20f49d6349cd78fe1cb86ca
